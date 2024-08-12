@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431960331090441242/0b24fe9eb23b4b53a0c7cfbd8f0c71cf/artifacts
+end_time: 1723184880405
+entry_point_name: ''
+experiment_id: '431960331090441242'
+lifecycle_stage: active
+run_id: 0b24fe9eb23b4b53a0c7cfbd8f0c71cf
+run_name: incongruous-tern-201
+run_uuid: 0b24fe9eb23b4b53a0c7cfbd8f0c71cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723184840600
+status: 3
+tags: []
+user_id: vishal.kumar2

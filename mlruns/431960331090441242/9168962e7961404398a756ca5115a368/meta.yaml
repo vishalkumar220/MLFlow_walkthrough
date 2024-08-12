@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/431960331090441242/9168962e7961404398a756ca5115a368/artifacts
+end_time: 1723184838429
+entry_point_name: ''
+experiment_id: '431960331090441242'
+lifecycle_stage: active
+run_id: 9168962e7961404398a756ca5115a368
+run_name: omniscient-loon-620
+run_uuid: 9168962e7961404398a756ca5115a368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723184792610
+status: 3
+tags: []
+user_id: vishal.kumar2
